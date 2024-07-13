@@ -23,7 +23,7 @@ Explore our latest projects by our members and contributions to the blockchain s
 Our notable initiatives over the past years:
 
 - **ZK Bootcamp:** Zero knowledge bootcamp delving from cryptographic primitives to Snarks and Starks.
-- **Macaw:** Deep Dive into Avalance protocol.
+- **Macaw:** Deep Dive into Avalanche protocol.
 - **BC106:** The Blockchain cohort to onboard university freshers & sophomores to Web3.
 
 ## Hackathons and conferences
